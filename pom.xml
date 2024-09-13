@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.devJucelio</groupId>
-	<artifactId>uberDesafio</artifactId>
+	<artifactId>uberdesafio</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>uberDesafio</name>
 	<description>Project for Spring Boot</description>
